@@ -21,10 +21,11 @@ export const Profile = styled.div`
   align-items: center;
 
   > img {
-    width: 140px;
-    height: 140px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     padding: 10px;
+    margin: 10px;
   }
 
   > div {
