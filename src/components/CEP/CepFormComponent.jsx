@@ -53,7 +53,7 @@ function CepFormComponent() {
             {/* Header com faixa amarela */}
             <div className="header-bar">
                 
-                    <img src="https://w7.pngwing.com/pngs/964/653/png-transparent-pasta-computer-icons-spaghetti-dish-symbol-spaghetti-miscellaneous-food-logo.png" alt="Logo" height={"150"} />
+                    <img className="logo-final" src="https://w7.pngwing.com/pngs/964/653/png-transparent-pasta-computer-icons-spaghetti-dish-symbol-spaghetti-miscellaneous-food-logo.png" alt="Logo" height={"150"} />
                 
                     <h1>Viva La Pasta</h1>
                 
