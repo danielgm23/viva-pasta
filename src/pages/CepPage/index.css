@@ -1,0 +1,67 @@
+.img1{
+  padding-right: 20px;
+}
+
+/* Adiciona um fundo amarelo claro à página */
+.page-background {
+  background-color: #312E38; /* amarelo suave */
+  min-height: 100vh;
+  padding: 10px 20px 15px 20px;
+  
+}
+
+/* Estilo para o header com uma faixa amarela */
+.header-bar {
+ 
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.header-bar h1 {
+  color: #FF9000;
+}
+
+
+.header-logo img{
+  height: 70px;
+  margin: 8px 8px 8px 10px;
+}
+
+.header-search input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 130px;
+}
+
+
+h1 {
+  background-color: transparent;
+}
+
+.button-cep {
+  position: relative;
+  width: 100%;
+  height: 100px; /* Altura do contêiner */
+}
+
+.button-back {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Centraliza */
+
+  border-radius: 10px;
+  
+  background-color: orange;
+
+  font-weight: bold;
+
+  font-size: 24px;
+}
