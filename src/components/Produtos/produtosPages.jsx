@@ -12,28 +12,28 @@ export function GroupExample() {
 
   let receitas = [
     {
-      thumbnail: "/src/assets/macarrao-com-molho-de-linguica-toscana.jpg",
+      thumbnail: "/src/assets/macarrao-com-molho-de-linguica-toscana.png",
       nome: "Macarronada com molho de linguiça toscana",
       descricao:
         "Macarronada com molho de linguiça toscana: macarrão al dente em molho fresco, com pedaços de linguiça suculenta e ervas aromáticas, finalizado com parmesão.",
       preco: "R$ 29,90",
     },
     {
-      thumbnail: "/src/assets/Nhoque-recheado-com-presunto-queijo-e-Catupiry.jpg",
+      thumbnail: "/src/assets/Nhoque-recheado-com-presunto-queijo-e-Catupiry.png",
       nome: "Nhoque recheado com presunto, queijo e Catupiry",
       descricao:
         "Nhoque macio, recheado com presunto, queijo e Catupiry, coberto com molho cremoso que derrete na boca. Perfeito para um almoço especial.",
       preco: "R$ 34,90",
     },
     {
-      thumbnail: "/src/assets/Lasanha-a-bolonhesa-com-bacon.jpg",
+      thumbnail: "/src/assets/Lasanha-a-bolonhesa-com-bacon.png",
       nome: "Lasanha à bolonhesa com bacon e queijo",
       descricao:
         "Lasanha em camadas de molho bolonhesa, queijo e bacon crocante, criando uma combinação saborosa e suculenta para amantes de massa.",
       preco: "R$ 36,90",
     },
     {
-      thumbnail: "/src/assets/Panqueca-de-frango-e-bacon.jpg",
+      thumbnail: "/src/assets/Panqueca-de-frango-e-bacon.png",
       nome: "Panqueca de frango, bacon e molho cremoso",
       descricao:
         "Panqueca recheada com frango desfiado e bacon crocante, servida com molho cremoso. Uma combinação deliciosa e prática para qualquer refeição.",
@@ -47,7 +47,7 @@ export function GroupExample() {
       preco: "R$ 32,90",
     },
     {
-      thumbnail: "/src/assets/rondele-de-espinafre-1.jpg",
+      thumbnail: "/src/assets/rondele-de-espinafre-1.png",
       nome: "Rondele de Espinafre",
       descricao:
         "Massa recheada com espinafre e queijo, envolta em molho cremoso. Rondele leve e saboroso, perfeito para refeições nutritivas e elegantes.",
