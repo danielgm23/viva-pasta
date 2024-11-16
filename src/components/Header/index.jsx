@@ -13,7 +13,7 @@ export function Header() {
     <Container>
       <Profile>
         <img
-          src="https://www.canva.com/desighttps://drive.google.com/file/d/1Z_qGBIo1QH9FUByXfLxJfTAOZqmSLJ0x/view?usp=drive_linkn/DAGV_GUpPjU/380SgZj14IJEGlVLyW_https://www.canva.com/design/DAGV_GUpPjU/yltEFY32eeWzeLL9_SfrhQ/view?utm_content=DAGV_GUpPjU&utm_campaign=designshare&utm_medium=link&utm_source=editordUQ/edit?utm_content=DAGV_GUpPjU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+          src="https://w7.pngwing.com/pngs/964/653/png-transparent-pasta-computer-icons-spaghetti-dish-symbol-spaghetti-miscellaneous-food-logo.png"
           alt="Foto do usuário"
         />
 
